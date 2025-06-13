@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Outlet, NavLink, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import ApperIcon from './components/ApperIcon';
+import ApperIcon from '@/components/ApperIcon';
 import { routes } from './config/routes';
 
 function Layout() {
@@ -9,7 +9,7 @@ function Layout() {
   const location = useLocation();
 
   const navItems = [
-    routes.dashboard,
+routes.dashboard, // Changed from routes.home for consistency, as dashboard is the main view after login
     routes.contacts, 
     routes.deals,
     routes.activities

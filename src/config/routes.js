@@ -1,9 +1,9 @@
-import Home from '../pages/Home';
-import Dashboard from '../pages/Dashboard';
-import Contacts from '../pages/Contacts';
-import Deals from '../pages/Deals';
-import Activities from '../pages/Activities';
-import NotFound from '../pages/NotFound';
+import HomePage from '@/components/pages/HomePage';
+import DashboardPage from '@/components/pages/DashboardPage';
+import ContactsPage from '@/components/pages/ContactsPage';
+import DealsPage from '@/components/pages/DealsPage';
+import ActivitiesPage from '@/components/pages/ActivitiesPage';
+import NotFoundPage from '@/components/pages/NotFoundPage';
 
 export const routes = {
   home: {
@@ -11,42 +11,42 @@ export const routes = {
     label: 'Home',
     path: '/',
     icon: 'Home',
-    component: Home
+component: HomePage
   },
   dashboard: {
     id: 'dashboard',
     label: 'Dashboard',
     path: '/dashboard',
     icon: 'LayoutDashboard',
-    component: Dashboard
+component: DashboardPage
   },
   contacts: {
     id: 'contacts',
     label: 'Contacts',
     path: '/contacts',
     icon: 'Users',
-    component: Contacts
+component: ContactsPage
   },
   deals: {
     id: 'deals',
     label: 'Deals',
     path: '/deals',
     icon: 'Target',
-    component: Deals
+component: DealsPage
   },
   activities: {
     id: 'activities',
     label: 'Activities',
     path: '/activities',
     icon: 'Clock',
-    component: Activities
+component: ActivitiesPage
   },
   notfound: {
     id: 'notfound',
     label: 'Not Found',
     path: '*',
     icon: 'AlertCircle',
-    component: NotFound
+component: NotFoundPage
   }
 };
 
