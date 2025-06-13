@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "TechCorp Enterprise Solution",
+    "value": 125000,
+    "stage": "proposal",
+    "probability": 75,
+    "contactId": "1",
+    "expectedClose": "2024-02-28T00:00:00Z",
+    "notes": "Large enterprise deal with multi-year potential. Decision committee meeting scheduled for next week.",
+    "createdAt": "2024-01-15T11:00:00Z"
+  },
+  {
+    "id": "2", 
+    "title": "Innovate Labs Platform Integration",
+    "value": 85000,
+    "stage": "negotiation",
+    "probability": 85,
+    "contactId": "2",
+    "expectedClose": "2024-02-15T00:00:00Z",
+    "notes": "Technical requirements confirmed. Waiting on legal approval for contract terms.",
+    "createdAt": "2024-01-12T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "MarketPro Campaign Management",
+    "value": 45000,
+    "stage": "qualified",
+    "probability": 60,
+    "contactId": "3",
+    "expectedClose": "2024-03-15T00:00:00Z",
+    "notes": "Strong interest in our marketing automation features. Budget approved for Q1.",
+    "createdAt": "2024-01-10T16:45:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Startup Ventures Growth Package",
+    "value": 25000,
+    "stage": "lead",
+    "probability": 30,
+    "contactId": "4",
+    "expectedClose": "2024-04-01T00:00:00Z",
+    "notes": "Early stage startup with scaling needs. Price sensitive but good long-term potential.",
+    "createdAt": "2024-01-08T13:20:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Retail Plus Multi-location Setup",
+    "value": 65000,
+    "stage": "won",
+    "probability": 100,
+    "contactId": "5",
+    "expectedClose": "2024-01-30T00:00:00Z",
+    "notes": "Contract signed! Implementation to begin next month across all 15 locations.",
+    "createdAt": "2024-01-05T10:15:00Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "type": "call",
+    "subject": "Discovery call with Sarah Johnson",
+    "description": "Discussed their current tech stack and pain points. They're looking for a comprehensive solution that can handle their enterprise-level requirements. Very interested in our scalability features.",
+    "contactId": "1",
+    "dealId": "1",
+    "date": "2024-01-20T14:45:00Z",
+    "duration": 45
+  },
+  {
+    "id": "2",
+    "type": "email",
+    "subject": "Proposal sent to TechCorp",
+    "description": "Sent detailed proposal including technical specifications, pricing, and implementation timeline. Included case studies from similar enterprise clients.",
+    "contactId": "1",
+    "dealId": "1",
+    "date": "2024-01-19T16:20:00Z",
+    "duration": 0
+  },
+  {
+    "id": "3",
+    "type": "meeting",
+    "subject": "Technical demo with Innovate Labs",
+    "description": "Conducted 90-minute technical demonstration focusing on API integration capabilities. Michael was impressed with the platform's flexibility and development tools.",
+    "contactId": "2",
+    "dealId": "2",
+    "date": "2024-01-19T10:00:00Z",
+    "duration": 90
+  },
+  {
+    "id": "4",
+    "type": "call",
+    "subject": "Follow-up with Emily Rodriguez",
+    "description": "Discussed marketing automation features and pricing options. She's particularly interested in the campaign analytics and A/B testing capabilities.",
+    "contactId": "3",
+    "dealId": "3",
+    "date": "2024-01-18T13:10:00Z",
+    "duration": 30
+  },
+  {
+    "id": "5",
+    "type": "note",
+    "subject": "Research on Startup Ventures",
+    "description": "Completed background research on the company. They recently raised $2M in Series A funding and are looking to scale their operations rapidly. Budget constraints but high growth potential.",
+    "contactId": "4",
+    "dealId": "4",
+    "date": "2024-01-17T10:30:00Z",
+    "duration": 0
+  },
+  {
+    "id": "6",
+    "type": "email",
+    "subject": "Contract signed - Retail Plus",
+    "description": "Received signed contract from Lisa Thompson. Implementation team has been notified and project kickoff scheduled for February 1st.",
+    "contactId": "5",
+    "dealId": "5",
+    "date": "2024-01-16T12:45:00Z",
+    "duration": 0
+  },
+  {
+    "id": "7",
+    "type": "call",
+    "subject": "Initial contact with David Kim",
+    "description": "Cold outreach call went well. David is interested in learning more about how our platform can help them scale their fintech operations. Scheduled demo for next week.",
+    "contactId": "4",
+    "dealId": null,
+    "date": "2024-01-15T15:30:00Z",
+    "duration": 20
+  },
+  {
+    "id": "8",
+    "type": "meeting",
+    "subject": "Quarterly business review with TechCorp",
+    "description": "Discussed their upcoming expansion plans and how our solution can support their growth. Identified additional opportunities for upselling premium features.",
+    "contactId": "1",
+    "dealId": null,
+    "date": "2024-01-12T14:00:00Z",
+    "duration": 60
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "(555) 123-4567",
+    "company": "TechCorp Solutions",
+    "position": "VP of Sales",
+    "tags": ["enterprise", "hot-lead"],
+    "customFields": {
+      "industry": "Technology",
+      "employees": "500+"
+    },
+    "createdAt": "2024-01-15T10:30:00Z",
+    "lastActivity": "2024-01-20T14:45:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Michael Chen",
+    "email": "m.chen@innovate.io",
+    "phone": "(555) 987-6543",
+    "company": "Innovate Labs",
+    "position": "CTO",
+    "tags": ["tech-stack", "decision-maker"],
+    "customFields": {
+      "industry": "Software",
+      "budget": "$50K+"
+    },
+    "createdAt": "2024-01-12T09:15:00Z",
+    "lastActivity": "2024-01-19T16:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Emily Rodriguez",
+    "email": "emily.r@marketpro.com",
+    "phone": "(555) 456-7890",
+    "company": "MarketPro Agency",
+    "position": "Marketing Director",
+    "tags": ["marketing", "warm-lead"],
+    "customFields": {
+      "industry": "Marketing",
+      "teamSize": "25"
+    },
+    "createdAt": "2024-01-10T11:22:00Z",
+    "lastActivity": "2024-01-18T13:10:00Z"
+  },
+  {
+    "id": "4",
+    "name": "David Kim",
+    "email": "david@startup.ventures",
+    "phone": "(555) 321-0987",
+    "company": "Startup Ventures",
+    "position": "Founder & CEO",
+    "tags": ["startup", "high-potential"],
+    "customFields": {
+      "industry": "Fintech",
+      "fundingRound": "Series A"
+    },
+    "createdAt": "2024-01-08T08:45:00Z",
+    "lastActivity": "2024-01-17T10:30:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@retail.plus",
+    "phone": "(555) 654-3210",
+    "company": "Retail Plus",
+    "position": "Operations Manager",
+    "tags": ["retail", "cold-lead"],
+    "customFields": {
+      "industry": "Retail",
+      "locations": "15 stores"
+    },
+    "createdAt": "2024-01-05T15:18:00Z",
+    "lastActivity": "2024-01-16T12:45:00Z"
+  }
+]
